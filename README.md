@@ -94,13 +94,7 @@ The dataset is sourced from **sales transaction data (Excel/CSV)** containing:
 ## 🚀 Future Enhancements
 - Add **forecasting models** for sales prediction  
 - Include **customer segmentation analysis**  
-- Automate data refresh using cloud-based sources  
-
----
-
-## 🤝 Connect With Me
-- **LinkedIn:** *(Add your LinkedIn profile link)*  
-- **GitHub:** *(Your GitHub profile)*  
+- Automate data refresh using cloud-based sources   
 
 ---
 
