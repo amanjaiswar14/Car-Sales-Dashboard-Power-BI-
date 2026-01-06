@@ -87,7 +87,7 @@ The dataset is sourced from **sales transaction data (Excel/CSV)** containing:
 ---
 
 ## 📷 Dashboard Preview
-![image alt](https://github.com/amanjaiswar14/Car-Sales-Dashboard-Power-BI-/blob/6767be884362f0dc85e06be7c6cefcfd45983f96/Car%20Sale%20Dashboard%20Pics.png)
+![image alt](https://github.com/amanjaiswar14/Car-Sales-Dashboard-Power-BI-/blob/1bde116139ec6927521a4080cfd2bb78f0d80eac/Car%20Sales%20Dashboard%20Image.png)
 
 ---
 
